@@ -71,4 +71,4 @@ function limparCampo() {
 
 //opannn kk olha eu aqui denovo kkk tô morto de sono kk mais quero fazer alguma coisa difente kk
 //OK9kyJHdn0b-pKEiQHaCrpBtkMRv2_NmE6EOdX3eTSyeIUvpT0tWmFKA2fmIP0Yy-6yrQuqJiEHhmJJvmHSUdjbNW2IX4ba1J9fiMo0JSYLNldAMtTEjNMSnq_wKMFtt
-//isso aqui é um codigo criptografado kk só copiar e colocar num site chamado invertexto.com que tu vai saber que que tá escrito kk
+//isso aqui é um texto criptografado kk só copiar e colocar num site chamado invertexto.com que tu vai saber que que tá escrito kk
